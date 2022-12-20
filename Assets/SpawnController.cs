@@ -11,7 +11,7 @@ public class SpawnController : MonoBehaviour
 
     private void Start()
     {
-        
+
         //enemy = Resources.Load<>;
 
     }
